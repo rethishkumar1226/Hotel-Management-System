@@ -1,0 +1,44 @@
+C:\Users\rethi\.jdks\openjdk-22.0.2\bin\java.exe "-javaagent:C:\Users\rethi\AppData\Local\JetBrains\IntelliJ IDEA Community Edition 2024.1.5\lib\idea_rt.jar=52925:C:\Users\rethi\AppData\Local\JetBrains\IntelliJ IDEA Community Edition 2024.1.5\bin" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath "C:\Users\rethi\Downloads\backend\Hotel management system\out\production\Hotel management system" HotelManagementSystem
+
+Hotel Management System
+1. Check-in
+2. Check-out
+3. View available rooms
+4. Exit
+Enter your choice: 3
+Available Rooms:
+Room 101: Available
+Room 102: Available
+Room 103: Available
+Room 201: Available
+Room 202: Available
+Room 203: Available
+
+Hotel Management System
+1. Check-in
+2. Check-out
+3. View available rooms
+4. Exit
+Enter your choice: 1
+Enter room number: 101
+Enter guest name: Rethish
+Guest Rethish checked into room 101.
+
+Hotel Management System
+1. Check-in
+2. Check-out
+3. View available rooms
+4. Exit
+Enter your choice: 2
+Enter room number: 101
+Guest Rethish checked out of room 101.
+
+Hotel Management System
+1. Check-in
+2. Check-out
+3. View available rooms
+4. Exit
+Enter your choice: 4
+Exiting the system...
+
+Process finished with exit code 0
